@@ -1,0 +1,5 @@
+C:\Users\kakaw\source\repos\HomeWork1\HomeWork(task4)\bin\Debug\HomeWork(task4).exe.config
+C:\Users\kakaw\source\repos\HomeWork1\HomeWork(task4)\bin\Debug\HomeWork(task4).exe
+C:\Users\kakaw\source\repos\HomeWork1\HomeWork(task4)\bin\Debug\HomeWork(task4).pdb
+C:\Users\kakaw\source\repos\HomeWork1\HomeWork(task4)\obj\Debug\HomeWork(task4).exe
+C:\Users\kakaw\source\repos\HomeWork1\HomeWork(task4)\obj\Debug\HomeWork(task4).pdb
